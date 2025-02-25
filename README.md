@@ -7,7 +7,7 @@ DeepSeek火爆全网之后，很多小伙伴都想访问DeepSeek，但是由于�
 1.[https://snakegpt.work](https://snakegpt.work)  同时支持GPT、MJ绘画、DeepSeek-R1等模型  
 2.[https://gptcat.net/](https://gptcat.net/)    多模型聚合站，支持GPT，Claude，DeepSeek，germini，MJ绘画  
 3.https://www.wenxiaobai.com/  
-4.https://metaso.cn/  
+4.https://metaso.cn/   
 5. http://h5ma.cn/scnet  
 6. https://sider.ai/invited?c=c72098f2510f255a812ffb1a4b8fe977  
 7. https://console.volcengine.com/ark/region:ark+cn-beijing/experience  
